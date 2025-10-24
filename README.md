@@ -1,7 +1,7 @@
 # Crypto Market ML Project
 
 This project implements an end-to-end machine learning pipeline on **BTC/USDT daily data**  
-(Source: [CryptoDataDownload](https://www.cryptodatadownload.com/cdd/Binance%20BTCUSDT_d.csv)).
+(Source: [CryptoDataDownload](https://www.cryptodatadownload.com/)).
 
 ## Steps
 - Data preprocessing & feature engineering (returns, moving averages, volatility)
